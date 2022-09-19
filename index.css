@@ -12,6 +12,7 @@ body {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    opacity: 90%;
 }
 
 h1 {
@@ -37,11 +38,11 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: #780202;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: #00ab14;
 }
 
 #save-el {
